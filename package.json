@@ -14,9 +14,12 @@
     "@remix-run/node": "^2.8.1",
     "@remix-run/react": "^2.8.1",
     "@remix-run/serve": "^2.8.1",
+    "@trpc/react": "^9.27.4",
     "isbot": "^4.1.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-query": "^3.39.3",
+    "trpc-remix": "10.0.0-alpha.40.1"
   },
   "devDependencies": {
     "@remix-run/dev": "^2.8.1",
